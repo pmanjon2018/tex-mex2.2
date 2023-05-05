@@ -1,2 +1,1 @@
-# texmex-lsis
-Repositorio que almacena los ejercicios de la P2
+# Archivo README del ejercicio 1
